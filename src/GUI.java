@@ -9,6 +9,7 @@ public class GUI {
     private JButton cToFButton;
     private JButton fToCButton;
     private JTextField programOutput;
+    private JLabel instructorText;
 
 
     public GUI() {
